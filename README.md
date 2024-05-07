@@ -25,9 +25,9 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/Paramjyotisahu/Paramjyotisahu/output/snake.svg" alt="Snake animation" />
+<div align="center">
+  <img height="200" src="https://camo.githubusercontent.com/46e49027b74558f49374fc708a1ca8da4af4700994f4929e877b8bab8cf80d86/68747470733a2f2f747365342e6d6d2e62696e672e6e65742f74683f69643d4f49502e797730546e686541474e2d4c506e654461546c61787748614438267069643d41706926503d3026683d323230"  />
+</div>
 
 ###
 
