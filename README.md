@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Param Jyoti Sahu.<br>✨Solving real life problems<br>📚 I’m currently learning AI/ML techniqu</h2>
+<h2 align="left">Hi 👋! My name is Param Jyoti Sahu.<br>✨Solving real life problems<br>📚 I’m currently learning AI/ML techniques<br>Flutter developer</h2>
 
 ###
 
